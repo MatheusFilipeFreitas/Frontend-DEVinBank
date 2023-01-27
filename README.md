@@ -1,11 +1,3 @@
-<a name="readme-top">DEVinBank</a>
-
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][https://github.com/MatheusFilipeFreitas/Frontend-DEVinBank/issues]
-[![LinkedIn][linkedin-shield]][https://linkedin.com/in/matheusfilipefreitas]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
